@@ -1,4 +1,4 @@
-# AleEthicalTools v2.0.0 - Suite Profesional de Auditoría Ética
+# AleEthicalTools v1.0.0 - Suite Profesional de Auditoría Ética
 
 ## 📋 Descripción
 
@@ -473,7 +473,7 @@ Todos los módulos han sido validados:
 
 ---
 
-**Versión**: 2.0.0  
+**Versión**: 1.0.0  
 **Author**: Alexander Crafting  
 **Last Updated**: April 2026  
 **Status**: Production Ready ✅  
