@@ -1,0 +1,19 @@
+# Dependencias opcionales para AleEthicalTools v2.0.0
+
+# DNS enumeration avanzado
+dnspython>=2.0.0
+
+# Web scraping y análisis HTML
+beautifulsoup4>=4.9.0
+
+# Requests HTTP mejorados
+requests>=2.26.0
+
+# Seguridad SSL/TLS avanzada
+cryptography>=3.4.0
+
+# Analysis y utilities
+python-whois>=0.7.3
+
+# Colorama para mejor soporte de colores en Windows
+colorama>=0.4.4

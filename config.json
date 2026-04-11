@@ -1,0 +1,69 @@
+{
+  "tool": {
+    "name": "AleEthicalTools",
+    "version": "2.0.0",
+    "author": "Alexander Crafting",
+    "description": "Professional security auditing tool for ethical use"
+  },
+  
+  "scanning": {
+    "ping": {
+      "timeout": 2,
+      "max_threads": 200,
+      "retry_on_timeout": false
+    },
+    "port": {
+      "timeout": 1.5,
+      "max_threads": 150,
+      "max_ports": 1000,
+      "stealth_mode": false
+    },
+    "http": {
+      "timeout": 10,
+      "follow_redirects": true,
+      "verify_ssl": true
+    }
+  },
+  
+  "detection": {
+    "common_ports": {
+      "80": "http",
+      "443": "https",
+      "22": "ssh",
+      "3306": "mysql",
+      "5432": "postgresql",
+      "6379": "redis",
+      "27017": "mongodb"
+    },
+    "common_paths": [
+      "/admin",
+      "/panel",
+      "/administrator",
+      "/.git",
+      "/.env",
+      "/wp-admin",
+      "/robots.txt"
+    ]
+  },
+  
+  "reporting": {
+    "format": ["html", "json"],
+    "detailed": true,
+    "include_timestamps": true,
+    "include_hides": true
+  },
+  
+  "logging": {
+    "level": "INFO",
+    "file_logging": true,
+    "console_logging": true,
+    "max_log_size": "10MB"
+  },
+  
+  "security": {
+    "disclaimer": true,
+    "ask_before_scans": true,
+    "rate_limiting": false,
+    "ethics_check": true
+  }
+}
