@@ -3,7 +3,7 @@
 AleEthicalTools v1.0.0
 Multiherramienta profesional de seguridad para auditoría y pruebas éticas.
 
-Autor: Alexander Crafting
+Autor: Alejandro Rosas
 Propósito: Auditoría de seguridad, investigación y educación
 Uso: Ético y autorizado solamente
 """

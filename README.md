@@ -474,7 +474,7 @@ Todos los módulos han sido validados:
 ---
 
 **Versión**: 1.0.0  
-**Author**: Alexander Crafting  
+**Author**: Alejandro Rosas  
 **Last Updated**: April 2026  
 **Status**: Production Ready ✅  
-**License**: Ethical Auditing & Education
+**License**: GNU

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Script de inicialización para AleEthicalTools
-Prepara el entorno y valida dependencias
+Prepara el entorno y valida dependencias.
 """
 
 import sys

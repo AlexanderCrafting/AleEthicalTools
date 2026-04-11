@@ -111,7 +111,7 @@ class ReportGenerator:
     <div class="section" style="background: #fff3cd; border-left: 5px solid #ffc107;">
         <h2>⚠️ Aviso Legal</h2>
         <p>Este reporte fue generado con AleEthicalTools para fines de auditoría ética autorizada solamente. 
-        El usuario es responsable de asegurar que todas las pruebas fueron realizadas con consentimiento explícito.</p>
+        El usuario es responsable de asegurar que todas las pruebas fueron realizadas con consentimiento explícito</p>
     </div>
     
     <div class="footer">

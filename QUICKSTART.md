@@ -229,6 +229,6 @@ pip install dnspython beautifulsoup4 cryptography
 
 ---
 
-**Made with ❤️ for Ethical Security Testing**
+**Documentacion y comentarios hechos por IA**
 
-v1.0.0 | Alexander Crafting | 2026
+v1.0.0 | Alejandro Rosas | 2026

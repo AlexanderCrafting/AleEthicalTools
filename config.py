@@ -3,7 +3,7 @@ from datetime import datetime
 
 APP_NAME = "AleEthicalTools"
 VERSION = "1.0.0"
-AUTHOR = "Alexander Crafting"
+AUTHOR = "Alejandro Rosas"
 DESCRIPTION = "Suite profesional de auditoria etica y pruebas de penetracion autorizadas"
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))

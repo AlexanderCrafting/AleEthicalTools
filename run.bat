@@ -6,7 +6,7 @@ setlocal enabledelayedexpansion
 
 echo.
 echo   =================================================
-echo       AleEthicalTools v1.0.0 - Suite de Auditoría Ética
+echo       AleEthicalTools v1.0.0 - Suite de Auditoría Etica
 echo              Seguridad para Auditoría Ética
 echo   =================================================
 echo.
