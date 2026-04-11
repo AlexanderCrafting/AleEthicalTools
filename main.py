@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AleEthicalTools v2.0.0
+AleEthicalTools v1.0.0
 Multiherramienta profesional de seguridad para auditoría y pruebas éticas.
 
 Autor: Alexander Crafting

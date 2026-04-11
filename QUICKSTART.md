@@ -1,4 +1,4 @@
-# GUÍA RÁPIDA DE INICIO - AleEthicalTools v2.0.0
+# GUÍA RÁPIDA DE INICIO - AleEthicalTools v1.0.0
 
 ## ⚡ Inicio Rápido (2 minutos)
 
@@ -231,4 +231,4 @@ pip install dnspython beautifulsoup4 cryptography
 
 **Made with ❤️ for Ethical Security Testing**
 
-v2.0.0 | Alexander Crafting | 2026
+v1.0.0 | Alexander Crafting | 2026

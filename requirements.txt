@@ -1,4 +1,4 @@
-# Dependencias opcionales para AleEthicalTools v2.0.0
+# Dependencias opcionales para AleEthicalTools v1.0.0
 
 # DNS enumeration avanzado
 dnspython>=2.0.0

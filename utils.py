@@ -115,7 +115,7 @@ class ReportGenerator:
     </div>
     
     <div class="footer">
-        <p>AleEthicalTools v2.0.0 | Generado automáticamente | Para auditoría ética autorizada</p>
+        <p>AleEthicalTools v1.0.0 | Generado automáticamente | Para auditoría ética autorizada</p>
     </div>
 </body>
 </html>"""
@@ -134,7 +134,7 @@ class ReportGenerator:
         report_data = {
             "metadata": {
                 "tool": "AleEthicalTools",
-                "version": "2.0.0",
+                "version": "1.0.0",
                 "timestamp": self.timestamp.isoformat(),
                 "scan_type": self.scan_type,
                 "target": self.target,

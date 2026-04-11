@@ -18,7 +18,7 @@ def print_banner():
 \____|__  /____/\___  >_______  /\___  >\___  >
         \/          \/        \/     \/     \/ 
     """)
-    print("AleEthicalTools v2.0.0 - Ethical Auditing Suite")
+    print("AleEthicalTools v1.0.0 - Ethical Auditing Suite")
     print("=" * 60)
 
 def check_python_version():

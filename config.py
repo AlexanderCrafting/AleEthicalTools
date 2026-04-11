@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 
 APP_NAME = "AleEthicalTools"
-VERSION = "2.0.0"
+VERSION = "1.0.0"
 AUTHOR = "Alexander Crafting"
 DESCRIPTION = "Suite profesional de auditoria etica y pruebas de penetracion autorizadas"
 
